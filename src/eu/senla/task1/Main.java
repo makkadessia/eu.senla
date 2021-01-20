@@ -1,4 +1,4 @@
-package eu.senla.Task1;
+package eu.senla.task1;
 
 public class Main {
     static boolean aBoolean;
